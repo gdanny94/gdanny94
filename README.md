@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Danny</h1>
-<h3 align="center">A passionate frontend developer from Grand Rapids, Michigan!</h3>
+
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/eb577ee6-dbf9-4613-8fed-9c60dba01d9e">
+
+
+
+
 
 - 🔭 I’m currently working on **Esperanza CC**
 
