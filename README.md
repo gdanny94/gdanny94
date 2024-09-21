@@ -1,12 +1,37 @@
-
+<!--Banner-->
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/eb577ee6-dbf9-4613-8fed-9c60dba01d9e">
 
 
+<!--Project Table-->
+<table align="center">
+  <tr>
+    <td valign="top" width="100%">
+      <h2 align="center">Projects 💻</h2>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" halign="center" width="100%">
+      <img width="400" src="#" />
+       <img width="400" src="#" />
+     </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/YuriDevAT/sos-animals">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+      </a>
+      <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+      </a>  
+    </td>
+  </tr>
+</table>
 
 
 
 
 
+<!--Contact Info-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/iam_dannnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_dannnny" height="30" width="40" /></a>
