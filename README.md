@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
-<img src="https://imgur.com/a/dannythedevbanner-DtueMyI?third_party=1"/>
 <h3 align="center">A passionate frontend developer from Grand Rapids, Michigan!</h3>
 
 - 🔭 I’m currently working on **Esperanza CC**
