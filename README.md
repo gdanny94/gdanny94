@@ -9,7 +9,7 @@
       <h2 align="center">Projects 💻</h2>
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td valign="top" halign="center" width="100%">
       <img width="400" src="#" />
        <img width="400" src="#" />
@@ -25,7 +25,7 @@
       </a>  
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
