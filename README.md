@@ -2,7 +2,7 @@
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/eb577ee6-dbf9-4613-8fed-9c60dba01d9e">
 
 
-<!--Project Table-->
+<!--Project Table
 <table align="center">
   <tr>
     <td valign="top" width="100%">
@@ -33,6 +33,7 @@
     </td>
   </tr>
 </table>
+-->
 
 
 
