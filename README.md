@@ -2,7 +2,7 @@
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/eb577ee6-dbf9-4613-8fed-9c60dba01d9e">
 
 
-<!--Project Table
+<!--project table
 <table align="center">
   <tr>
     <td valign="top" width="100%">
@@ -17,8 +17,8 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/YuriDevAT/sos-animals">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+      <a href=https://github.com/gdanny94/Revive-Church>
+        <img width="400" src="" />
       </a>
       <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
         <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
@@ -33,7 +33,8 @@
     </td>
   </tr>
 </table>
--->
+
+
 
 
 
