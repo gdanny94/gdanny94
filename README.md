@@ -96,7 +96,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Esperanza Covenant Church</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <a target="_blank" href="#">
           <img src="#" width="100%" alt="EsperanzaCC"/>
         </a>
         <br />
