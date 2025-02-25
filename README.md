@@ -41,7 +41,8 @@
       <h3 align="center">Revive Church</h3>
         <br />
         <a target="_blank" href="https://revive-church.netlify.app/">
-          <img src="desktop/images/reviveChurchGIF.gif" width="100%" alt="Revive Church">
+          <img src="https://share.zight.com/
+https://p5.f1.n0.cdn.zight.com/items/6quApOlq/3270a16f-0da9-40ba-bab2-b015b5b47ed4.gif?response-content-disposition=attachment%3B+filename%3D%22Zight%2BRecording%2B2025-2-24%2Bat%2B3.42.39%2BPM.gif%22%3B+filename%2A%3DUTF-8%27%27Zight%2520Recording%25202025-2-24%2520at%25203.42.39%2520PM.gif&source=download&v=41f7d4a2f0249eed3fa72c720b778322" width="100%" alt="Revive Church">
         </a>
         <br />
         <p align="center">
@@ -67,7 +68,7 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://dannythedev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
