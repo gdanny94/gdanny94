@@ -41,8 +41,7 @@
       <h3 align="center">Revive Church</h3>
         <br />
         <a target="_blank" href="https://revive-church.netlify.app/">
-          <img src="https://share.zight.com/
-https://p5.f1.n0.cdn.zight.com/items/6quApOlq/3270a16f-0da9-40ba-bab2-b015b5b47ed4.gif?response-content-disposition=attachment%3B+filename%3D%22Zight%2BRecording%2B2025-2-24%2Bat%2B3.42.39%2BPM.gif%22%3B+filename%2A%3DUTF-8%27%27Zight%2520Recording%25202025-2-24%2520at%25203.42.39%2520PM.gif&source=download&v=41f7d4a2f0249eed3fa72c720b778322" width="100%" alt="Revive Church">
+          <img src="GIFS/reviveChurchGIF.gif" width="100%" alt="Revive Church">
         </a>
         <br />
         <p align="center">
@@ -60,7 +59,7 @@ https://p5.f1.n0.cdn.zight.com/items/6quApOlq/3270a16f-0da9-40ba-bab2-b015b5b47e
       <h3 align="center">Revved Up</h3>
         <br />
       <a target="_blank" href="https://revved-up.netlify.app/">
-            <img src="#" width="100%"  alt="Revved Up"/>
+            <img src="GIFS/revvedupGIF.gif" width="100%"  alt="Revved Up"/>
         </a>
         <br />
         <p align="center">
@@ -81,7 +80,7 @@ https://p5.f1.n0.cdn.zight.com/items/6quApOlq/3270a16f-0da9-40ba-bab2-b015b5b47e
       <h3 align="center">Brillanti</h3>
       <br />
         <a target="_blank" href="https://brillanti.netlify.app/">
-          <img src="#" width="100%" alt="Brillanti"/>
+          <img src="GIFS/brillantiGIF.gif" width="100%" alt="Brillanti"/>
         </a>
       <br />
         <p align="center">
@@ -98,7 +97,7 @@ https://p5.f1.n0.cdn.zight.com/items/6quApOlq/3270a16f-0da9-40ba-bab2-b015b5b47e
       <h3 align="center">Esperanza Covenant Church</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="#" width="100%" alt="EsperanzaCC"/>
+          <img src="GIFS/esperanza.gif" width="100%" alt="EsperanzaCC"/>
         </a>
         <br />
         <p align="center">
