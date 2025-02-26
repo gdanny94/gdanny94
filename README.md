@@ -49,8 +49,8 @@
   <a href="https://github.com/gdanny94/Revive-Church" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="\https://shawncharles.com/travelara" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://revive-church.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, Node.js, & Express.js</strong> -  user-friendly platform designed to connect the church community, providing easy access to sermons, events, and important announcements. Built with HTML, CSS, and JavaScript, it offers a seamless experience for members to stay engaged and grow in their faith.</p>
@@ -64,10 +64,10 @@
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/gdanny94/revvedUp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://dannythedev.netlify.app/" target="_blank">
+  <a href="https://revved-up.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -84,10 +84,10 @@
         </a>
       <br />
         <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/gdanny94/Brillanti" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://brillanti.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -102,10 +102,10 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/gdanny94/EsperanzaCC" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
