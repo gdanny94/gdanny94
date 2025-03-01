@@ -6,7 +6,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Revive Church</h3>
+      <h3 align="center">Revive</h3>
         <br />
         <a target="_blank" href="https://revive-church.netlify.app/">
           <img src="GIFS/reviveChurchGIF.gif" width="100%" alt="Revive Church">
@@ -62,7 +62,7 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - a stylish and user-friendly platform designed for browsing, purchasing, and managing high-quality jewelry collections. It offers a seamless shopping experience with secure transactions, detailed product views, and easy navigation to help customers find the perfect piece.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Esperanza Covenant Church</h3>
+      <h3 align="center">Esperanza</h3>
         <br />
         <a target="_blank" href="#">
           <img src="GIFS/esperanza.gif" width="100%" alt="EsperanzaCC"/>
