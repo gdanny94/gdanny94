@@ -65,7 +65,7 @@
       <h3 align="center">Esperanza</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="GIFS/esperanza.gif" width="100%" alt="EsperanzaCC"/>
+          <img src="GIFS/esperanzagr.gif" width="100%" alt="EsperanzaCC"/>
         </a>
         <br />
         <p align="center">
